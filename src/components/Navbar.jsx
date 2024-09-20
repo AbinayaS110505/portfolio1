@@ -22,7 +22,7 @@ function Navbar() {
       </ul>
       </div>
       <div className="text-white px-7 py-3.5">
-        <FontAwesomeIcon icon={faUser} className="text-3xl" /> {/* Icon on the right */}
+        <FontAwesomeIcon icon={faUser} className="text-3xl" /> 
       </div>
     </div>
   );

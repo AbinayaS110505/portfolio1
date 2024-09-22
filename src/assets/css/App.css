@@ -9,3 +9,9 @@ background: -webkit-linear-gradient(to right, #0ED2F7, #44ece4);
 background: linear-gradient(to right, #0ED2F7, #6bfff8);
 
 }
+.active{
+    background:#B2FEFA;
+    border-radius:40px;
+    padding: 3%;
+    color:black;
+}

@@ -15,3 +15,19 @@ background: linear-gradient(to right, #0ED2F7, #6bfff8);
     padding: 3%;
     color:black;
 }
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }

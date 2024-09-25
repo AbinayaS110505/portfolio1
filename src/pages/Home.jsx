@@ -22,19 +22,19 @@ function Home() {
         </div>
       </div>
     </div>
-      <ul className="flex justify-center flex-row gap-7 py-10">
-        <li><img src={html} alt="html" /></li>
-        <li><img src={github} alt="github" /></li>
-        <li><img src={java} alt="java" /></li>
-        <li><img src={js} alt="javascript" /></li>
-        <li><img src={lin} alt="linkedin" /></li>
-        <li><img src={mon} alt="mongodb" /></li>
-        <li><img src={my} alt="mysql" /></li>
-        <li><img src={p} alt="react" /></li>
+    <ul className="flex justify-center flex-row gap-7 py-10">
+      <li><img src={html} alt="html" /></li>
+      <li><img src={github} alt="github" /></li>
+      <li><img src={java} alt="java" /></li>
+      <li><img src={js} alt="javascript" /></li>
+      <li><img src={lin} alt="linkedin" /></li>
+      <li><img src={mon} alt="mongodb" /></li>
+      <li><img src={my} alt="mysql" /></li>
+      <li><img src={p} alt="react" /></li>
 
-      </ul>
+    </ul>
 
-      </>);
+  </>);
 }
 
 export default Home;

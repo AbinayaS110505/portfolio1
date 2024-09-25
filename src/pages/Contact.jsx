@@ -5,7 +5,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 function Contact() {
   return (<>
     <div className="flex flex-col  justify-between items-center h-screen bg-gray-100 p-8 ">
-      <h1 className="text-3xl font-bold mb-4">Contact...</h1>
+      <h1 className="text-3xl font-bold mb-4">Contact</h1>
             <div className="w-full max-w-md bg-white p-6 rounded-lg shadow-lg mb-3">
         <form className="flex flex-col space-y-4">
           <div>

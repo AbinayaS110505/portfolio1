@@ -1,7 +1,7 @@
 // src/apiService.js
 import axios from 'axios';
 
-const API = "http://localhost:7777";
+const API = import.meta.env.VITE_API;
 
 const getProjects = () => axios.get(`${API}/projects/all`);
 const getProjectByID = (id) => axios.get(`${API}/projects/all/${id}`);
